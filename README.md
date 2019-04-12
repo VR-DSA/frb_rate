@@ -1,2 +1,2 @@
 # frb_rate
-Code related to FRB rates
+This repository contains some code related to calculating FRB volumetric rates.
